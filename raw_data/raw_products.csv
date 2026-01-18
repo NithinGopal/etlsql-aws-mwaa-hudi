@@ -1,0 +1,51 @@
+product_id,product_name,category,subcategory,price,supplier_id
+101,Pro Gaming Laptop X1,Electronics,Computers,1299.99,501
+102,Wireless Gaming Mouse G7,Electronics,Accessories,59.99,502
+103,Smart 4K TV 55",Electronics,TVs,799.99,503
+104,Premium Noise-Canceling Headphones,Electronics,Audio,249.99,504
+105,Casual Cotton T-Shirt,Clothing,Shirts,24.99,505
+106,Athletic Running Shoes,Sports,Footwear,89.99,506
+107,Ergonomic Office Chair,Home & Garden,Furniture,199.99,507
+108,Bestseller Fiction Novel,Books,Fiction,19.99,508
+109,Smartphone Charging Stand,Electronics,Accessories,29.99,509
+110,Yoga Mat Premium,Sports,Equipment,45.99,510
+111,Coffee Maker Deluxe,Home & Garden,Kitchen,159.99,511
+112,Wireless Earbuds Pro,Electronics,Audio,179.99,512
+113,Designer Jeans,Clothing,Pants,89.99,513
+114,Smart Home Security Camera,Electronics,Security,129.99,514
+115,Garden Tool Set,Home & Garden,Garden,79.99,515
+116,Fantasy Book Collection,Books,Fiction,49.99,516
+117,Basketball Pro Edition,Sports,Equipment,34.99,517
+118,LED Desk Lamp,Home & Garden,Lighting,39.99,518
+119,Winter Jacket,Clothing,Outerwear,149.99,519
+120,Bluetooth Speaker,Electronics,Audio,69.99,520
+121,Fitness Tracker Watch,Electronics,Wearables,129.99,501
+122,Cookbook Collection,Books,Non-Fiction,39.99,502
+123,Gaming Console Pro,Electronics,Gaming,499.99,503
+124,Running Shorts,Sports,Apparel,29.99,504
+125,Smart Thermostat,Home & Garden,Smart Home,179.99,505
+126,Leather Wallet,Clothing,Accessories,49.99,506
+127,Educational Tablet,Electronics,Computers,299.99,507
+128,Protein Powder,Sports,Nutrition,54.99,508
+129,Decorative Pillows Set,Home & Garden,Decor,39.99,509
+130,Mystery Novel Series,Books,Fiction,29.99,510
+131,Wireless Keyboard,Electronics,Accessories,79.99,511
+132,Yoga Pants,Clothing,Athletic Wear,44.99,512
+133,Air Purifier,Home & Garden,Appliances,199.99,513
+134,Children's Picture Book,Books,Children,14.99,514
+135,Dumbbell Set,Sports,Equipment,89.99,515
+136,Smart Watch Series 5,Electronics,Wearables,249.99,516
+137,Beach Towel Set,Home & Garden,Bath,34.99,517
+138,Dress Shirt,Clothing,Shirts,59.99,518
+139,Comic Book Collection,Books,Comics,44.99,519
+140,Tennis Racket Pro,Sports,Equipment,159.99,520
+141,Digital Camera,Electronics,Cameras,399.99,501
+142,Bed Sheet Set,Home & Garden,Bedding,69.99,502
+143,Running Socks Pack,Sports,Accessories,19.99,503
+144,Science Textbook,Books,Educational,79.99,504
+145,Portable Charger,Electronics,Accessories,49.99,505
+146,Kitchen Knife Set,Home & Garden,Kitchen,149.99,506
+147,Rain Jacket,Clothing,Outerwear,89.99,507
+148,Resistance Bands,Sports,Equipment,24.99,508
+149,Self-Help Book,Books,Non-Fiction,24.99,509
+150,Smart Light Bulbs,Home & Garden,Lighting,39.99,510

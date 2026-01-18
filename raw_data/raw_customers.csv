@@ -1,0 +1,51 @@
+customer_id,first_name,last_name,email,country,city,registration_date
+1,John,Doe,john.doe@email.com,USA,New York,2024-01-01
+2,Sarah,Wilson,s.wilson@email.net,USA,Los Angeles,2024-01-03
+3,Michael,Chen,mchen@email.com,Canada,Toronto,2024-01-02
+4,Emma,Brown,emma.b@email.com,UK,London,2024-01-01
+5,Luis,Garcia,lgarcia@email.net,USA,Miami,2024-01-04
+6,Anna,Kowalski,akowalski@email.com,Germany,Berlin,2024-01-02
+7,James,Anderson,j.anderson@email.net,Australia,Sydney,2024-01-05
+8,Marie,Dubois,mdubois@email.com,France,Paris,2024-01-03
+9,David,Taylor,dtaylor@email.net,UK,Manchester,2024-01-06
+10,Sophie,Miller,smiller@email.com,Canada,Vancouver,2024-01-04
+11,Alexander,Lee,alee@email.net,USA,Chicago,2024-01-07
+12,Isabella,Martinez,imartinez@email.com,USA,Houston,2024-01-05
+13,William,Clark,wclark@email.net,Australia,Melbourne,2024-01-08
+14,Olivia,Wang,owang@email.com,Canada,Montreal,2024-01-06
+15,Thomas,Schmidt,tschmidt@email.net,Germany,Munich,2024-01-09
+16,Ava,Johnson,ajohnson@email.com,USA,Seattle,2024-01-07
+17,Daniel,Kim,dkim@email.net,USA,San Francisco,2024-01-10
+18,Emily,White,ewhite@email.com,UK,Liverpool,2024-01-08
+19,Mohammed,Ahmed,mahmed@email.net,UK,Birmingham,2024-01-11
+20,Sofia,Lopez,slopez@email.com,USA,Phoenix,2024-01-09
+21,Lucas,Martin,lmartin@email.net,France,Lyon,2024-01-12
+22,Nina,Petrova,npetrova@email.com,Germany,Hamburg,2024-01-10
+23,Ryan,O'Connor,roconnor@email.net,Australia,Brisbane,2024-01-13
+24,Chloe,Bernard,cbernard@email.com,France,Marseille,2024-01-11
+25,Kevin,Wong,kwong@email.net,Canada,Calgary,2024-01-14
+26,Julia,Fischer,jfischer@email.com,Germany,Frankfurt,2024-01-12
+27,Gabriel,Santos,gsantos@email.net,USA,Boston,2024-01-15
+28,Zoe,Campbell,zcampbell@email.com,UK,Leeds,2024-01-13
+29,Nathan,Nguyen,nnguyen@email.net,USA,San Diego,2024-01-16
+30,Victoria,Patel,vpatel@email.com,UK,Glasgow,2024-01-14
+31,Adrian,Kovac,akovac@email.net,Germany,Cologne,2024-01-17
+32,Lily,Robinson,lrobinson@email.com,Australia,Perth,2024-01-15
+33,Oscar,Fernandez,ofernandez@email.net,USA,Dallas,2024-01-18
+34,Hannah,Cooper,hcooper@email.com,Canada,Ottawa,2024-01-16
+35,Felix,Weber,fweber@email.net,Germany,Dresden,2024-01-19
+36,Mia,Turner,mturner@email.com,USA,Atlanta,2024-01-17
+37,Leo,Rossi,lrossi@email.net,France,Toulouse,2024-01-20
+38,Charlotte,Wright,cwright@email.com,UK,Edinburgh,2024-01-18
+39,Samuel,Kim,skim@email.net,USA,Denver,2024-01-21
+40,Elena,Collins,ecollins@email.com,Australia,Adelaide,2024-01-19
+41,Benjamin,Murphy,bmurphy@email.net,USA,Portland,2024-01-22
+42,Sophia,Wagner,swagner@email.com,Germany,Stuttgart,2024-01-20
+43,Max,Jensen,mjensen@email.net,USA,Minneapolis,2024-01-23
+44,Alice,Lambert,alambert@email.com,France,Nice,2024-01-21
+45,Oliver,Howard,ohoward@email.net,UK,Bristol,2024-01-24
+46,Lara,Bennett,lbennett@email.com,Australia,Canberra,2024-01-22
+47,Henri,Leroy,hleroy@email.net,France,Bordeaux,2024-01-25
+48,Maya,Davidson,mdavidson@email.com,Canada,Edmonton,2024-01-23
+49,Patrick,Sullivan,psullivan@email.net,USA,Detroit,2024-01-26
+50,Clara,Harrison,charrison@email.com,UK,Sheffield,2024-01-24
